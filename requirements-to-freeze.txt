@@ -18,10 +18,10 @@ flake8
 pytest
 pytest-cov
 vcrpy
-tox
 
 # banner plugin
 pyfiglet
 
 #slack
 websocket-client
+setuptools
